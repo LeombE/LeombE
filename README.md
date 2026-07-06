@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leo Cheng Hui 👋</h1>
 
 <p align="center">
-  <b>Final-year Decision Science student building data analytics, automation and AI-assisted research systems.</b>
+  <b>Final-year Decision Science student building practical data products, automation pipelines and AI-assisted research systems.</b>
 </p>
 
 <p align="center">
@@ -77,8 +77,9 @@ For technical reviewers:
 
 ## Current focus
 
-- Building clean, public GitHub projects that are easy to review
-- Improving project documentation, dashboards and reproducible workflows
+- Preparing for Data Analyst internship roles in Malaysia
+- Upgrading each pinned repository into a case study style portfolio project
+- Improving documentation, sample outputs, validation and reproducible workflows
 
 ---
 
