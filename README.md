@@ -87,3 +87,4 @@ For technical reviewers:
 
 - GitHub: [@LeombE](https://github.com/LeombE)
 - Email: spaceleoch@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chenghuileo/
