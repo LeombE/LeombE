@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leo Cheng Hui 👋</h1>
 
 <p align="center">
-  <b>Decision Science student building data analytics, automation, and AI-assisted research systems.</b>
+  <b>Final-year Decision Science student building data analytics, automation and AI-assisted research systems.</b>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ My work focuses on:
 
 ---
 
-## Skills I am building
+## Core skills
 
 ### Data analysis
 
