@@ -26,8 +26,8 @@ My work focuses on:
 - Data analysis and research automation
 - Python pipelines and structured reporting
 - Dashboard-ready datasets and decision systems
-- GitHub intelligence, internship intelligence, and market research
-- Clean documentation that helps recruiters and technical reviewers understand the project quickly
+- GitHub intelligence, internship intelligence and market research
+- Clean documentation that helps technical reviewers understand the project quickly
 
 ---
 
@@ -79,7 +79,6 @@ For technical reviewers:
 
 - Building clean, public GitHub projects that are easy to review
 - Improving project documentation, dashboards and reproducible workflows
-- Developing my Final Year Project research e-portfolio
 
 ---
 
